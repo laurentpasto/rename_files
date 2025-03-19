@@ -1,3 +1,6 @@
+
+![nonames](https://github.com/user-attachments/assets/b3010a7e-98f3-4516-8b23-faa9403c6630)
+
 # Smart Image Renaming Tool
 
 A Python script that helps you automatically rename image files based on their containing folders.
