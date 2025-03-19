@@ -133,4 +133,3 @@ You can edit the script to:
 
 - The script shows you what it will do before proceeding
 - It only processes image files, leaving other files untouched
-- It handles errors gracefully without crashing
